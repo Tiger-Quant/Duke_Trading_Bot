@@ -1,0 +1,5 @@
+pandas
+numpy
+scipy
+ib_insync
+yfinance
